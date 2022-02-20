@@ -13,8 +13,8 @@ myTown , hisTown = "Yanbu" , "albaha"
 
 # “x“ variable has an integer value and “y” has a float value
 
-x = int(5) 
-y = float(4.5)
+x = 5
+y = 4.5
 
 #implicit type conversion in new variable “z”
 
