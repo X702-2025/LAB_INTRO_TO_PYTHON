@@ -5,9 +5,6 @@ help('yield')
 
 # one value to multible variables
 
-from re import X
-
-
 myName = myFriendName = "Mohmmad"
 
 # multible values to multible variables
