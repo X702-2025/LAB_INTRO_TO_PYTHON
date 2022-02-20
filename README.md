@@ -6,4 +6,3 @@
 - Apply implicit type conversion in new variable “z”.
 - Apply explicit type conversion on the x variable.
 - Define “name” variable has a value equals “Your Name”.
-- Use negative indexes to start the slice from the end of the string.
